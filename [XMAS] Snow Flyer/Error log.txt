@@ -1,0 +1,6 @@
+KNOWN ERROR LOG:
+- Dasher's effect does not halve damage by effect for all members.
+- Dancer's effect is iffy
+- Vixen does not require that you have another Snow Flyer with a different name to work.
+- Snowy Frontier's recover effect
+- Senbonzakura Flyer doesn't power boost, but it does destroy the opponent's S/T cards.
