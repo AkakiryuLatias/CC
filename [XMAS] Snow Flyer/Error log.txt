@@ -4,3 +4,4 @@ KNOWN ERROR LOG:
 - Vixen does not require that you have another Snow Flyer with a different name to work.
 - Snowy Frontier's recover effect
 - Senbonzakura Flyer doesn't power boost, but it does destroy the opponent's S/T cards.
+- Reindeer of Northern Lights may not grant power boost
